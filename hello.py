@@ -1,7 +1,3 @@
-print('Hello from VS Code')
-git init
-git add .
-git commit -m "Initial commit - environment setup"
-git remote add origin <https://github.com/anastasijak-git/01-nedela-python-setup>
-git branch -M main
-git push -u origin main
+print("Hello, world!")
+print("My name is Anastasija")
+print("I am learning Python")
